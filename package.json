@@ -1,7 +1,7 @@
 {
   "name": "ai-gitignore",
   "version": "1.0.0",
-  "description": "Scans your project and generates the perfect .gitignore",
+  "description": "AI-powered .gitignore generator - smart ignore patterns based on project stack with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-gitignore": "dist/cli.js"
@@ -10,9 +10,20 @@
     "build": "tsc"
   },
   "keywords": [
-    "gitignore",
     "ai",
-    "cli"
+    "openai",
+    "gpt",
+    "gitignore",
+    "git",
+    "ignore",
+    "patterns",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "github",
+    "vcs"
   ],
   "license": "MIT",
   "dependencies": {
