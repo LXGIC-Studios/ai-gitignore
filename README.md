@@ -1,5 +1,10 @@
 # ai-gitignore
 
+[![npm version](https://img.shields.io/npm/v/ai-gitignore.svg)](https://www.npmjs.com/package/ai-gitignore)
+[![npm downloads](https://img.shields.io/npm/dm/ai-gitignore.svg)](https://www.npmjs.com/package/ai-gitignore)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Stop copy-pasting .gitignore templates from GitHub. This thing actually looks at your project and figures out what to ignore.
 
 ## Install
