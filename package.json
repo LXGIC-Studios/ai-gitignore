@@ -1,0 +1,42 @@
+{
+  "name": "@lxgicstudios/ai-gitignore",
+  "version": "1.0.0",
+  "description": "Auto-detect your project's tech stack and generate a comprehensive .gitignore file. Supports Node, Python, Go, Rust, Java, Ruby, .NET, and 20+ more frameworks.",
+  "main": "dist/index.js",
+  "bin": {
+    "ai-gitignore": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "gitignore",
+    "generator",
+    "auto-detect",
+    "tech-stack",
+    "node",
+    "python",
+    "rust",
+    "go",
+    "java",
+    "cli",
+    "devtools"
+  ],
+  "author": "LXGIC Studios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-gitignore"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "@types/node": "^20.0.0"
+  }
+}
