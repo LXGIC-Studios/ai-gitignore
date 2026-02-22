@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-gitignore"
+    "url": "git+https://github.com/LXGIC-Studios/ai-gitignore.git"
   },
   "files": [
     "dist"
@@ -38,5 +38,13 @@
   "devDependencies": {
     "typescript": "^5.3.0",
     "@types/node": "^20.0.0"
+  },
+  "homepage": "https://github.com/LXGIC-Studios/ai-gitignore#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-gitignore/issues"
   }
 }
