@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Auto-detect your project's tech stack and generate a comprehensive .gitignore file. Supports Node, Python, Go, Rust, Java, Ruby, .NET, and 20+ more frameworks.",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-gitignore": "dist/index.js"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
@@ -25,26 +29,27 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-gitignore#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LXGIC-Studios/ai-gitignore.git"
   },
-  "files": [
-    "dist"
-  ],
-  "engines": {
-    "node": ">=18"
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-gitignore/issues"
   },
-  "devDependencies": {
-    "typescript": "^5.3.0",
-    "@types/node": "^20.0.0"
-  },
-  "homepage": "https://github.com/LXGIC-Studios/ai-gitignore#readme",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-gitignore/issues"
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "@types/node": "^20.0.0"
   }
 }
