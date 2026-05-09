@@ -1,5 +1,7 @@
 # @lxgicstudios/ai-gitignore
 
+.gitignore generator. Creates comprehensive ignore files for various frameworks and languages.
+
 [![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-gitignore.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-gitignore)
 [![license](https://img.shields.io/npm/l/@lxgicstudios/ai-gitignore.svg)](https://github.com/lxgicstudios/ai-gitignore/blob/main/LICENSE)
 [![node](https://img.shields.io/node/v/@lxgicstudios/ai-gitignore.svg)](https://nodejs.org)
@@ -62,36 +64,70 @@ ai-gitignore --json
 ## Detected Stacks
 
 | Stack | Detection Files |
-|-------|----------------|
-| Node.js | package.json, yarn.lock, .nvmrc |
-| TypeScript | tsconfig.json, *.ts files |
-| Python | requirements.txt, pyproject.toml, Pipfile |
-| Go | go.mod, go.sum |
-| Rust | Cargo.toml, Cargo.lock |
-| Java | pom.xml, build.gradle |
-| Ruby | Gemfile, Rakefile |
-| .NET | *.csproj, *.sln |
-| PHP | composer.json |
-| Swift | Package.swift, *.xcodeproj |
-| Kotlin | build.gradle.kts |
-| Dart/Flutter | pubspec.yaml |
-| Elixir | mix.exs |
-| Terraform | main.tf, *.tf |
-| Docker | Dockerfile, docker-compose.yml |
-| Next.js | next.config.js |
+|
 
-## Options
 
-| Option | Alias | Description | Default |
-|--------|-------|-------------|---------|
-| `--help` | `-h` | Show help message | |
-| `--dir <path>` | `-d` | Directory to scan | `.` |
-| `--check` | `-c` | Find tracked files that should be ignored | `false` |
-| `--merge` | `-m` | Merge with existing .gitignore | `false` |
-| `--preview` | `-p` | Preview without writing | `false` |
-| `--force` | `-f` | Overwrite existing .gitignore | `false` |
-| `--json` | | Output as JSON | `false` |
 
-## License
 
-MIT - [LXGIC Studios](https://github.com/lxgicstudios)
+ [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
+
+
+- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
+- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
+
+## 🚀 Built with ❤️ by LXGIC Studios
+
+> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
+
+
+**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
+**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
+**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
+
+## 📄 License
+
+MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lxgicstudios/sponsor">
+      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
+    </a>
+    <a href="https://twitter.com/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
+    </a>
+    <a href="https://discord.gg/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    </a>
+  </p>
+</div>
+
+---
+
+Built by [LXGIC Studios](https://github.com/lxgicstudios)
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios

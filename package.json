@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-gitignore",
   "version": "1.0.0",
-  "description": "Auto-detect your project's tech stack and generate a comprehensive .gitignore file. Supports Node, Python, Go, Rust, Java, Ruby, .NET, and 20+ more frameworks.",
+  "description": "AI-powered .gitignore generator - create smart ignore files with GPT",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -15,24 +15,38 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "gitignore",
-    "generator",
+    "2025-standards",
+    "ai-2025",
+    "ai-powered",
     "auto-detect",
-    "tech-stack",
-    "node",
-    "python",
-    "rust",
-    "go",
-    "java",
     "cli",
-    "devtools"
+    "developer-productivity",
+    "devtools",
+    "discoverability",
+    "generative-ai",
+    "generator",
+    "git",
+    "gitignore",
+    "go",
+    "ignore",
+    "java",
+    "llm-optimized",
+    "modern-seo",
+    "node",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-gitignore#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-gitignore.git"
+    "url": "https://github.com/LXGIC-Studios/ai-gitignore"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-gitignore/issues"
