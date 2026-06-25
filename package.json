@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
-  "description": "AI-powered .gitignore generator - create smart ignore files with GPT",
+  "description": "Auto-detect your project tech stack and generate a complete .gitignore file. Supports Node, Python, Go, Rust, Java, Ruby, .NET, and 20+ more frameworks.",
   "devDependencies": {
     "typescript": "^5.3.0",
     "@types/node": "^20.0.0"
@@ -61,5 +61,5 @@
     "prepublishOnly": "npm run build"
   },
   "types": "./dist/index.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
