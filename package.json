@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-gitignore/issues"
   },
-  "description": "Auto-detect your project tech stack and generate a complete .gitignore using AI. Supports Node.js, Python, Go, Rust, Java, Ruby, .NET, and 20+ frameworks. Never commit the wrong files again.",
+  "description": "Auto-detect your project tech stack and generate a complete .gitignore using AI. Supports Node.js, Python, Go, Rust, Java, Ruby, .NET, and 20+ frameworks. Never commit...",
   "devDependencies": {
     "typescript": "^5.3.0",
     "@types/node": "^20.0.0"
@@ -30,7 +30,6 @@
     "ai",
     "anthropic",
     "automation",
-    "best-practices",
     "boilerplate",
     "claude",
     "cli",
@@ -43,29 +42,8 @@
     "gpt",
     "ignore-file",
     "nodejs",
-    "npx",
-    "openai",
-    "performance",
-    "project-setup",
-    "scaffolding",
-    "seo-tools",
-    "technical-seo",
-    "template",
     "typescript",
-    "utility",
-    "version-control",
-    "vibe-coding",
-    "web-optimization",
-    "ai-search-optimization",
-    "ai-overviews",
-    "e-e-a-t",
-    "search-intent",
-    "ai-discovery",
-    "query-fan-out",
-    "bofu-content",
-    "seo-2026",
-    "content-quality",
-    "entity-seo"
+    "javascript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
