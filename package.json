@@ -41,9 +41,7 @@
     "gitignore",
     "gpt",
     "ignore-file",
-    "nodejs",
-    "typescript",
-    "javascript"
+    "typescript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
